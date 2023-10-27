@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pricing
-slug: /blog
+slug: /pricing
 ---
 
 <p>
