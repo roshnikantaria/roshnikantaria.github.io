@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+I am Roshni Kantaria, a young Syndey-based visual artist! I come from 6 years of fine art schooling and industry experience in mural-painting as well. I’m dedicated to creating a life-like painting that masterfully captures your love story like no-other. 
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+A traditional painting transcends photography – it captures emotion, movement and lighting in a highly personalised and artistic manner. I’m excited to commemorate the elements most important to you whether it is your dress, the gorgeous day, or the family getting together – lets find your vision for the canvas!
 </p>
